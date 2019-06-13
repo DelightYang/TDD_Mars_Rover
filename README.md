@@ -1,5 +1,5 @@
 # TDD_Mars_Rover
-30mins to the mars，ok thats just a joke ;) at least this moment ;);)
+30mins to the mars，ok thats just a joke ;) at least at this moment ;);)
 
 -
 So，
