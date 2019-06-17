@@ -1,14 +1,15 @@
 # TDD_Mars_Rover
-30mins to the mars，ok thats just a joke ;) at least at this moment ;);)
+## 30mins to the mars! alright thats just a joke ;) 
+## At least at this moment XD
 
--
-So，
-The Rover can move forward and move back
-The Rover can only move in a specific region
-The Rover can turn left and right
+### -
+#### So，
+#### The Rover can move forward and move back
+#### The Rover can only move in a specific region
+#### The Rover can turn left and right
 
-The Rover may encounter obstacle / obstacles，so you'd design a good mechanism to handle that ;)
+#### The Rover may encounter obstacle / obstacles，so you'd design a good mechanism to handle that ;)
 
-Besides above, other requirements are relatively free.
+#### All requirements are not that strict as you may wish :) Feel free to design.
 
-AND, Also Feel free to enjoy this code and leave your comments.
+> enjoy this code and leave your comments.
